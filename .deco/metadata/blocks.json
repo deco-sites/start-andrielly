@@ -44,5 +44,25 @@
   "/.deco/blocks/deco-htmx.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FLatestPosts.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/LatestPosts.tsx"
+  },
+  "/.deco/blocks/newAction.json": {
+    "blockType": "actions",
+    "__resolveType": "website/actions/secrets/encrypt.ts"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-558170.json": {
+    "name": "My New Page",
+    "path": "/example-path",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Page%25203-358812.json": {
+    "name": "Page 3",
+    "path": "/path/:slug",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }

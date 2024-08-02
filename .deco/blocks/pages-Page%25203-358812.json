@@ -1,6 +1,6 @@
 {
-  "name": "Home",
-  "path": "/",
+  "name": "Page 3",
+  "path": "/path/:slug",
   "sections": [
     {
       "__resolveType": "site/sections/ItWorks.tsx",
@@ -10,9 +10,8 @@
       "__resolveType": "Footer"
     }
   ],
-  "__resolveType": "website/pages/Page.tsx",
   "seo": {
-    "__resolveType": "website/sections/Seo/SeoV2.tsx",
-    "title": "Drica"
-  }
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
 }
